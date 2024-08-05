@@ -1,6 +1,6 @@
 # Tadle Protocol
 
-[//]: # (contest-details-open)
+
 
 ### Prize Pool
 
@@ -13,6 +13,8 @@
 - Ends: August 12, 2024 Noon UTC
 
 - nSLOC: 1229
+
+[//]: # (contest-details-open)
 
 ## About the Project
 
