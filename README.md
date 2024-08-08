@@ -116,7 +116,7 @@ Compatibilities:
 Prerequisites:
 
 ```bash
-forge install OpenZeppelin/openzeppelin-contracts
+forge install OpenZeppelin/openzeppelin-contracts --no-commit
 ```
 
 Build:
